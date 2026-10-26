@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+# Scan output may contain target data: never commit it
+*.html
+*.json
+rapor*
+*_rapor*
+hedefler*.txt
+targets*.txt
